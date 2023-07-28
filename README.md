@@ -1,3 +1,7 @@
+  <head>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+  </head>
+
 Welcome to the **HANDETECT** Project! Our goal is to develop an innovative AI-powered system that facilitates early detection and monitoring of movement disorders through handwriting assessment. We are excited to embark on this journey and contribute to the advancement of medical research in this field.
 
 ## About Movement Disorders

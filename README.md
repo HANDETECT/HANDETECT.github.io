@@ -3,7 +3,7 @@ Welcome to the **HANDETECT** Project! Our goal is to develop an innovative AI-po
 ## About Movement Disorders
 Movement disorders encompass a wide range of neurological conditions that affect the ability to control voluntary and involuntary movements. These conditions can lead to difficulties in handwriting and other motor-related tasks. Through our research, we aim to improve the understanding of movement disorders and enable early intervention for better patient outcomes.
 
-# Target Movement Disorders of Our Research
+### Target Movement Disorders of Our Research
 - Parkinson's Disease (PD)
 - Essential Tremor (ET)
 - Huntington's Disease (HD)
@@ -21,7 +21,7 @@ Movement disorders encompass a wide range of neurological conditions that affect
 Our unique approach involves analyzing handwriting patterns to detect subtle motor abnormalities associated with movement disorders. By administering a series of simple drawing tasks, we can gather valuable data that may aid in the identification and tracking of various movement disorders.
 
 ## Participate in our Project
-We are currently recruiting patients of [our target disorders](#Target-Movement-Disorders-of-Our-Research).
+We are currently recruiting patients of [our target disorders](https://handetect.github.io/#target-movement-disorders-of-our-research).
 
 We welcome participants who have been diagnosed with movement disorders to take part in our handwriting assessment. 
 

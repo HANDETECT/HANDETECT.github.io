@@ -33,7 +33,13 @@ We welcome participants who have been diagnosed with movement disorders to take 
 
 Download the handwriting assessment form [here](https://handetect.github.io/Handwriting-Assessment-Form.pdf). 
 
-You may print it out and complete the assessment and submit to us via methods below.
+<object data="https://handetect.github.io/Handwriting-Assessment-Form.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://handetect.github.io/Handwriting-Assessment-Form.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://handetect.github.io/Handwriting-Assessment-Form.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+You may print it out and complete the assessment and submit it to us via the methods below.
 
 ### Submission Methods
 - **Google Drive** - We have created a [Google Drive folder](https://drive.google.com/drive/folders/1Cp5E0S7IIdw1-g_QHG-_dboe4Bo9RvrM?usp=sharing), which participants may conveniently take photos or scan their assessment results sheet and upload there.

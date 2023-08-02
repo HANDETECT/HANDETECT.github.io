@@ -5,6 +5,7 @@ layout: default
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
 # 📢 [[Recruiting Research Participants!](https://handetect.github.io/#participate-in-our-project)] 📢
+# 📢 [[Seeking Collaboration with Disease Patient Organizations!](https://handetect.github.io/#collaboration-opportunities)] 📢
 
 Welcome to the **HANDETECT** Project! Our goal is to develop an innovative AI-powered system that facilitates early detection and monitoring of movement disorders through handwriting assessment. We are excited to embark on this journey and contribute to the advancement of medical research in this field.
 
@@ -24,9 +25,6 @@ Movement disorders encompass a wide range of neurological conditions that affect
 - Progressive Supranuclear Palsy (PSP)
 - Amyotrophic Lateral Sclerosis (ALS)
 
-
-## Our Approach
-Our unique approach involves analyzing handwriting patterns to detect subtle motor abnormalities associated with movement disorders. By administering a series of simple drawing tasks, we can gather valuable data that may aid in the identification and tracking of various movement disorders.
 
 ## Participate in our Project
 We are currently recruiting patients of [our target disorders](https://handetect.github.io/#target-movement-disorders-of-our-research) for our research.

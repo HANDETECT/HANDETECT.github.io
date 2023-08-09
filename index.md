@@ -31,15 +31,32 @@ We are currently recruiting patients of [our target disorders](https://handetect
 
 We welcome participants who have been diagnosed with movement disorders to take part in our **handwriting assessment**. It takes **less than 10 minutes** to complete.
 
-Download the handwriting assessment form [here](https://handetect.github.io/Handwriting-Assessment-Form.pdf). 
+To participate in our study, participants will need to complete a handwriting assessment form. There are 7 tasks of drawing different patterns, including Archimedes Spiral, Simple House, Running Stickman, Simple Wave Curves, L-Loops, Straight Lines and Simple Car. Alongside the handwriting assessment, we aim to gather supplementary data encompassing age, gender, disease name, disease severity, duration of symptoms, handedness, and family history of the disease (if any). Lastly, participants will need to give consent for their data to be analyzed within our project.
 
-<object data="https://handetect.github.io/Handwriting-Assessment-Form.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://handetect.github.io/Handwriting-Assessment-Form.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://handetect.github.io/Handwriting-Assessment-Form.pdf">Download PDF</a>.</p>
+Download the Handwriting Assessment Form and Human Informed Consent Form below. You can also read through our project protocol for a more thorough view of our project.
+
+### Handwriting Assessment Form
+<object data="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view the handwriting assessment form: <a href="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-You may print it out and complete the assessment and submit it to us via the methods below.
+### Human Informed Consent Form
+<object data="https://handetect.github.io/Human%20Informed%20Consent%20Form.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://handetect.github.io/Human%20Informed%20Consent%20Form.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view the human informed consent form: <a href="https://handetect.github.io/Human%20Informed%20Consent%20Form.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### Project Protocol
+<object data="https://handetect.github.io/Project%20Protocol.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://handetect.github.io/Project%20Protocol.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view the project protocol: <a href="https://handetect.github.io/Project%20Protocol.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+You may print them out and complete the assessments and submit it to us via the methods below.
 
 ### Submission Methods
 - **Google Drive** - We have created a [Google Drive folder](https://drive.google.com/drive/folders/1Cp5E0S7IIdw1-g_QHG-_dboe4Bo9RvrM?usp=sharing), which participants may conveniently take photos or scan their assessment results sheet and upload there.
@@ -56,7 +73,10 @@ You may print it out and complete the assessment and submit it to us via the met
 Thanks for your participation, your dedication and willingness to be part of this project have been truly appreciated.
 
 ## Data Privacy and Confidentiality
-We understand the importance of data privacy and confidentiality. Rest assured, all participant data will be treated with the utmost care and stored securely. Personal information will be anonymized to protect participants' identities. All data will be stored locally in a computer which is only assessible by the research team. The data will be deleted after the research has done.
+We understand the importance of data privacy and confidentiality. Rest assured, all participant data will be treated with the utmost care and stored securely. Personal information will be anonymized to protect participants' identities. All data will be stored locally on a computer which is only accessible by the research team. The data will be deleted after the research has been done.
+
+## Benefits 
+While there are no direct benefits to the individual participants, this research project aims to contribute to the field of movement disorders and neurology. By developing an algorithm for handwriting analysis to detect movement disorder diseases, this study has the potential to improve the early detection and monitoring of these conditions. This, in turn, may lead to more timely interventions and better disease management, ultimately enhancing the quality of life for individuals affected by movement disorders.
 
 ## Collaboration Opportunities
 We are open to collaborating with medical professionals, research institutions, and patient organizations dedicated to [movement disorders](https://handetect.github.io/#target-movement-disorders-of-our-research). If you are interested in partnering with us, please feel free to reach out to us at <m-9389033@moe-dl.edu.my>.

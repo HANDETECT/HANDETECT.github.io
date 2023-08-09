@@ -33,7 +33,9 @@ We welcome participants who have been diagnosed with movement disorders to take 
 
 To participate in our study, participants will need to complete a handwriting assessment form. There are 7 tasks of drawing different patterns, including Archimedes Spiral, Simple House, Running Stickman, Simple Wave Curves, L-Loops, Straight Lines and Simple Car. Alongside the handwriting assessment, we aim to gather supplementary data encompassing age, gender, disease name, disease severity, duration of symptoms, handedness, and family history of the disease (if any). Lastly, participants will need to give consent for their data to be analyzed within our project.
 
-Download the Handwriting Assessment Form and Human Informed Consent Form below. You can also read through our project protocol for a more thorough view of our project.
+Download the Handwriting Assessment Form and Human Informed Consent Form below. You need to print them out and complete the assessments and submit them to us.
+
+You can also read through our project protocol for a more thorough view of our project.
 
 ### Handwriting Assessment Form
 <object data="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf" type="application/pdf" width="700px" height="700px">
@@ -56,7 +58,6 @@ Download the Handwriting Assessment Form and Human Informed Consent Form below. 
     </embed>
 </object>
 
-You may print them out and complete the assessments and submit it to us via the methods below.
 
 ### Submission Methods
 - **Google Drive** - We have created a [Google Drive folder](https://drive.google.com/drive/folders/1Cp5E0S7IIdw1-g_QHG-_dboe4Bo9RvrM?usp=sharing), which participants may conveniently take photos or scan their assessment results sheet and upload there.

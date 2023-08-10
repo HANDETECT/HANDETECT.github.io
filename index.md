@@ -39,8 +39,8 @@ You can also read through our project protocol for a more thorough view of our p
 
 ### Handwriting Assessment (Containing Human Informed Consent Form)
 <object data="https://handetect.github.io/Handwriting%20Assessment.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view the handwriting assessment form: <a href="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf">Download PDF</a>.</p>
+    <embed src="https://handetect.github.io/Handwriting%20Assessment.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view the handwriting assessment form: <a href="https://handetect.github.io/Handwriting%20Assessment.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 

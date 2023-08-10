@@ -33,23 +33,17 @@ We welcome participants who have been diagnosed with movement disorders to take 
 
 To participate in our study, participants will need to complete a handwriting assessment form. There are 7 tasks of drawing different patterns, including Archimedes Spiral, Simple House, Running Stickman, Simple Wave Curves, L-Loops, Straight Lines and Simple Car. Alongside the handwriting assessment, we aim to gather supplementary data encompassing age, gender, disease name, disease severity, duration of symptoms, handedness, and family history of the disease (if any). Lastly, participants will need to give consent for their data to be analyzed within our project.
 
-Download the Handwriting Assessment Form and Human Informed Consent Form below. You need to print them out and complete the assessments and submit them to us.
+Download the Handwriting Assessment Form below. You need to print them out and complete the assessments and submit them to us.
 
 You can also read through our project protocol for a more thorough view of our project.
 
-### Handwriting Assessment Form
-<object data="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf" type="application/pdf" width="700px" height="700px">
+### Handwriting Assessment (Containing Human Informed Consent Form)
+<object data="https://handetect.github.io/Handwriting%20Assessment.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view the handwriting assessment form: <a href="https://handetect.github.io/Handwriting%20Assessment%20Form.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### Human Informed Consent Form
-<object data="https://handetect.github.io/Human%20Informed%20Consent%20Form.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://handetect.github.io/Human%20Informed%20Consent%20Form.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view the human informed consent form: <a href="https://handetect.github.io/Human%20Informed%20Consent%20Form.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
 
 ### Project Protocol
 <object data="https://handetect.github.io/Project%20Protocol.pdf" type="application/pdf" width="700px" height="700px">
